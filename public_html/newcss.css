@@ -9,5 +9,6 @@ and open the template in the editor.
 */
 
 body{
-    background-color: blue;
+    font-family: 'Fira Sans', sans-serif;
+    background-color: steelblue;
 }
